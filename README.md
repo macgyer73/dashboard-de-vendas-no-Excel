@@ -16,6 +16,8 @@ Este projeto consiste na criação de um dashboard de vendas no Excel, utilizand
 - Desenvolver habilidades na criação de dashboards dinâmicos e visuais no Excel.
 - Explorar e interpretar dados para a tomada de decisões baseadas em análises visuais.
 
+### Dashboard Final
+![Dashboard Final](https://github.com/macgyer73/dashboard-de-vendas-no-Excel/blob/main/Image/DASHBOARD.jpg)
+
 ## Observações
 - A base de dados e o dashboard são fictícios e foram criados para fins educacionais e de aprendizado.
-
